@@ -1,7 +1,7 @@
 # Hi, I'm Zahoorahmed Siraj Sayyad 👋🏻
 
 # 💫 About Me:
-Aspiring AI/ML and Web3 developer...<br>Who is currently a Web Developer...<br><br>🔭 I’m currently working on Generative AI based projects<br>👯 I’m looking to collaborate on open source projects that make difference<br>🤝 I’m looking for help with building some awesome projects<br>🌱 I’m currently learning Next.js<br>💬 Ask me about anything about me<br>⚡ Fun fact Web dev is not 'JUST'. It's has been a long journey for me...
+Aspiring AI/ML and Web3 developer...<br>Who is currently a Web Developer 😁<br><br>🔭 I’m currently working on Generative AI based projects<br>👯 I’m looking to collaborate on open source projects that make difference<br>🤝 I’m looking for help with building some awesome projects<br>🌱 I’m currently learning Next.js<br>💬 Ask me about anything about me<br>⚡ Fun fact Web dev is not 'JUST'. It's has been a long journey for me...
 
 
 ## 🌐 Socials:
